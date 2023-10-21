@@ -16,7 +16,7 @@
            android:layout_height="wrap_content"
            android:layout_toRightOf="@id/imageView"
            android:layout_weight="1"
-           android:text="Visveswaraya Technological University"
+           android:text="Sahyadri College of Engineering"
            android:textSize="25dp" />
 
        <ImageView
@@ -61,20 +61,20 @@
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NAME"
+            android:text="Shreyas"
             android:textSize="34dp"/>
 
         <TextView
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Register"
+            android:text="Register no"
             android:textSize="34dp"/>
         <TextView
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Phone"
+            android:text="Phone no"
             android:textSize="34dp"
             tools:ignore="DuplicateIds" />
 
@@ -89,7 +89,7 @@
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="email@eamil.com"
+            android:text="abc@eamil.com"
             android:textSize="34dp"
             tools:ignore="DuplicateIds" />
         <View
